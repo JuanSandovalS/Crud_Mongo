@@ -1,0 +1,9 @@
+com\tienda\crud_spring\Repositories\ProductoRepository.class
+com\tienda\crud_spring\Repositories\ClienteRepository.class
+com\tienda\crud_spring\CrudSpringApplication.class
+com\tienda\crud_spring\Controllers\ProductoController.class
+com\tienda\crud_spring\Service\ProductoService.class
+com\tienda\crud_spring\Controllers\ClienteController.class
+com\tienda\crud_spring\Service\ClienteService.class
+com\tienda\crud_spring\Models\Cliente.class
+com\tienda\crud_spring\Models\Producto.class
